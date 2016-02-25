@@ -12,6 +12,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         TextView textView = (TextView) findViewById(R.id.main_tv);
-        textView.setText("ccdd");
+        textView.setText("sssssssssssssssssssss");
+        textView.setText("sssssssssssssssssssss");
     }
 }
